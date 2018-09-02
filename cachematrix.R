@@ -1,4 +1,4 @@
-## The two functions below are used to compute a matrix invese or retrieve a previous computed inverse matri
+## The two functions below are used to compute a matrix invese or retrieve a previous computed inverse matrix
 ## This function "makeCacheMatrix" create a matrix used to cashe its inverse
 
 makeCacheMatrix <- function(x = matrix()) {
